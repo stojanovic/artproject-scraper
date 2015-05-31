@@ -1,0 +1,28 @@
+{
+  "name": "artproject-scraper",
+  "version": "1.0.0",
+  "description": "Get random art and metadata from Google Art Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "keywords": [
+    "art",
+    "project",
+    "random",
+    "painting",
+    "api"
+  ],
+  "author": "Slobodan Stojanovic",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.56.0"
+  },
+  "devDependencies": {
+    "tap": "^1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stojanovic/artproject-scraper.git"
+  }
+}
