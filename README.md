@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/stojanovic/artproject-scraper.svg)](https://travis-ci.org/stojanovic/artproject-scraper) [![npm version](https://badge.fury.io/js/artproject-scraper.svg)](http://badge.fury.io/js/artproject-scraper)
+
 # ArtProject Scraper
 
 Get random art and metadata from Google Art Project.
