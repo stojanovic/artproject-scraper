@@ -1,6 +1,6 @@
 {
   "name": "artproject-scraper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get random art and metadata from Google Art Project",
   "main": "index.js",
   "scripts": {

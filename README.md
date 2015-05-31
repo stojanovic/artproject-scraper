@@ -20,7 +20,7 @@ I found Google Art Project that has exactly what I want, except there was no API
   
 var scraper = require('artproject-scraper')
 
-scraper(err, function(randomArt) {
+scraper(function(err, randomArt) {
   if (!err)
     console.log(randomArt)
 
